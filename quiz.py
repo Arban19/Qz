@@ -66,7 +66,7 @@ if answer10.title() == "China":
     score += 1
 else: print("Incorrect!!")
 
-print("Thanks for finishing the quiz!!!")
+print("Thank you for finishing the quiz!!!")
 print("Your score is " + str(score) + " out of 10" )
 print("You got " + str(score/10*100) +"%")
 if score > 7:
